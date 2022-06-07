@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Madeline!
 - 👀 I’m interested in languages, linguistics, and machine learning, especially natural language processing.
 - :computer: I'm currently practicing my React skills by writing a book tracker app  
+- :chart_with_upwards_trend: [Find my Kaggle account here](https://www.kaggle.com/madelinecaples), for Machine Learning projects 
 - 📫 You can [find me on Twitter @madeline_pc](https://twitter.com/madeline_pc) or [read my blog for tidbits on machine learning](http://madelinecaples.hashnode.dev), explained in plain English! 
 
 <!---
