@@ -1,4 +1,5 @@
 - 👋 Hi, I’m Madeline!
+- I'm a frontend developer who works on React applications
 - 👀 I’m interested in languages, linguistics, and machine learning, especially natural language processing.
 - :computer: I'm currently practicing my React skills by writing a book tracker app  
 - :chart_with_upwards_trend: [Find my Kaggle account here](https://www.kaggle.com/madelinecaples), for Machine Learning projects
